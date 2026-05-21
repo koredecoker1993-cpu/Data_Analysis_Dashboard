@@ -1,2 +1,6 @@
-# Data_Analysis_Dashboard
-This project delivers a clear sales performance analysis using Excel and Tableau. The dataset was cleaned, transformed, and visualised to uncover key insights on revenue, product performance, regional trends, and year‑over‑year changes through interactive dashboards.
+# Sales Performance-Data-Analysis (Interactive Dashboard creation using Tableau)
+## Project Objective
+The goal of this project is to analyze and visualize sales data using Excel and Tableau. It focuses on identifying revenue trends, top‑selling products, and regional performance through interactive dashboards that support data‑driven business decisions.
+
+## Dataset used
+
